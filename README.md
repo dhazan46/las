@@ -128,13 +128,3 @@ Update the API base URL in your frontend application if necessary. Ensure that t
 
 - Ensure that the backend server is running before attempting to access the frontend.
 - Use the Django admin panel to manage products and users.
-
-## Troubleshooting
-
-- If you encounter CORS issues, ensure that the CORS settings in `settings.py` are correctly configured.
-- For any authentication issues, verify that the JWT settings are correctly configured in `settings.py`.
-
-## License
-
-This project is licensed under the MIT License.
-# pe
